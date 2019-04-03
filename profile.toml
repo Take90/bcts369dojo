@@ -1,4 +1,4 @@
 [Profile]
-    nickname: "Take"
-    age: 28
-    bloodtype: "A"
+    nickname = "Take"
+    age = 28
+    bloodtype = "A"
